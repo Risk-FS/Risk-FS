@@ -11,8 +11,7 @@ repository  = "https://github.com/Risk-FS/Risk-FS"
 classifiers = [
     "Intended Audience :: Developers",
     "Programming Language :: Python :: 3.11",
-    "Programming Language :: Python :: 3.12",
-    "Topic :: Security :: Risk",
+    "Programming Language :: Python :: 3.12"
 ]
 
 [tool.poetry.dependencies]
